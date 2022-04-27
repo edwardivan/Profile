@@ -27,7 +27,6 @@
   <tr>
     <td>Interests</td>
     <td><code>Editor</code></td>
-     <td rowspan="4"><img src="https://i.pinimg.com/originals/f6/42/ee/f642eea95a8d6676dbfa530fe56b5ade.gif" width="150" height="150"></td>
   </tr>
   <tr>
     <td>Socials</td>
