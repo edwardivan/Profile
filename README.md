@@ -22,7 +22,7 @@
   <tr>
     <td>Title</td>
     <td>Student</td>
-    <td rowspan="4"><img src="https://i.pinimg.com/originals/f6/42/ee/f642eea95a8d6676dbfa530fe56b5ade.gif" width="150" height="150"></td>
+    <td rowspan="4"><img src="https://yt3.ggpht.com/k3wlAzSn8Ei27P0XXg187PIsb-Polg7xHUC_amq9CIm635bi3XePfoQWsEmKn9DtBSdYGFhNAA=s88-c-k-c0x00ffffff-no-rj-mo" width="150" height="150"></td>
   </tr>
   <tr>
     <td>Interests</td>
