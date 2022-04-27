@@ -29,10 +29,6 @@
     <td><code>Editor</code></td>
   </tr>
   <tr>
-    <td>Languages</td>
-    <td><code>C#</code> <code>Node JS</code> <code>HTML, CSS, JS</code> <code>Batch, Bash</code>, <code>Lua</code</td>
-  </tr>
-  <tr>
     <td>Socials</td>
     <td><a href="https://discord.gg/8HsNJg7ZRG">Discord Server</a>, <a href="https://www.youtube.com/channel/UCq0KPnTWQPAnmfan6nmJyzA">Youtube Channel</a></td>
   </tr>
