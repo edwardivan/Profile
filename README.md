@@ -30,6 +30,7 @@
   </tr>
   <tr>
     <td>Socials</td>
+    <td rowspan="4"><img src="https://i.pinimg.com/originals/f6/42/ee/f642eea95a8d6676dbfa530fe56b5ade.gif" width="150" height="150"></td>
     <td><a href="https://discord.gg/8HsNJg7ZRG">Discord Server</a>, <a href="https://www.youtube.com/channel/UCq0KPnTWQPAnmfan6nmJyzA">Youtube Channel</a></td>
   </tr>
 </table>
